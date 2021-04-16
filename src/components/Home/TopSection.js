@@ -15,7 +15,7 @@ const TopSection = (props) => {
                 {children}
                 <TopSectionInnerContainer>
                     <ContentContainer>
-                        <ContentTitle>Team Management software that works for you.</ContentTitle>
+                        <ContentTitle> Management software that works for you.</ContentTitle>
                         <Marginer direction="vertical" margin={25}/>
                         <Slogan>Remoteen projects has everything you need for your team to collaborate effectively, hit deadlines and archieve high performance results.</Slogan>
                         <Marginer direction="vertical" margin={25}/>
